@@ -38,28 +38,12 @@ include('login_check.php');
         <section class="collaborators">
             <h2>Meet Our Collaborators</h2>
             <div class="teammate">
-                <img src="frontend/img/tanmoy.jpg" alt="Teammate 1" style="width: 180px;">
-                <h3>Tanmoy Bhowmick</h3>
-                <p>Co-Founder</p>
+                <img src="Naim.jpg" alt="Teammate 1" style="width: 180px;">
+                <h3>Naim Islam</h3>
+                
             </div>
-            <div class="teammate">
-                <img src="frontend/img/bonni.jpg" alt="Teammate 1" style="width: 180px;">
-
-                <h3>Bonni Basak</h3>
-                <p>Marketing Director</p>
-            </div>
-            <div class="teammate">
-                <img src="frontend/img/dilan.jpg" alt="Teammate 1" style="width: 180px;">
-
-                <h3>Farhan</h3>
-                <p>Operations Manager</p>
-            </div>
-            <div class="teammate">
-                <img src="frontend/img/shohan.png" alt="Teammate 1" style="width: 180px;">
-
-                <h3>Shohan</h3>
-                <p>System Director</p>
-            </div>
+           
+            
         </section>
         <section class="contact-form">
             <h2>Contact Us</h2>
