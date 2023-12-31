@@ -1,4 +1,4 @@
-# Aquadrops - School Project
+
 
  This repository contains the source code and documentation for the project.
 
@@ -6,7 +6,6 @@
 
 
 
-[Watch the Video Demo](https://drive.google.com/file/d/1i1I2gr1rF3zxG636eXLXyuE4uYgxERF3/view?usp=sharing)
 
 ## Features
 
