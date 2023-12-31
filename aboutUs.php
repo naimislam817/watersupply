@@ -38,7 +38,7 @@ include('login_check.php');
         <section class="collaborators">
             <h2>Meet Our Collaborators</h2>
             <div class="teammate">
-                <img src="Naim.jpg" alt="Teammate 1" style="width: 180px;">
+                <img src="" alt="Teammate 1" style="width: 180px;">
                 <h3>Naim Islam</h3>
                 
             </div>
